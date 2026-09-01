@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I love building fast, responsive, and pixel-perfec
 ## 🌐 Top Deployed Projects
 *(Apne best projects ke naam aur live links yahan add karein)*
 
-- 🔗 **[Project 1 Ka Naam]** - [Live Demo Link]  
-  *Built with React, TypeScript, and Tailwind CSS.*
+- 🔗 **[Expense Tracker Pro]** - [https://expense-tracker-pro-two-swart.vercel.app/]  
+  *Built with React, TypeScript, and Tailwind CSS, Luicide React, Zod, Recharts*
   
-- 🔗 **[Project 2 Ka Naam]** - [Live Demo Link]  
-  *A dynamic web application focused on interactive UI.*
+- 🔗 **[Portfolio Website]** - [ https://vercel.com/mehmoodahmed006s-projects/portfolio/G7tQVLTbKg9i8WcjzaerHi2tNNU7 ]  
+  *A dynamic portfolio website focused on interactive UI, Built with React TypeSCript*
