@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I love building fast, responsive, and pixel-perfec
 ---
 
 ## 🌐 Top Deployed Projects
-*(Apne best projects ke naam aur live links yahan add karein)*
 
 - 🔗 **[Expense Tracker Pro]** - [https://expense-tracker-pro-two-swart.vercel.app/]  
   *Built with React, TypeScript, and Tailwind CSS, Luicide React, Zod, Recharts*
